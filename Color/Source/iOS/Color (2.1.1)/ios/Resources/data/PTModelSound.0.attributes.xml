@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>5463</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>jump.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6958</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>pop1.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7025</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>bg_music.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
